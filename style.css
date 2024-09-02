@@ -97,3 +97,10 @@ a{
 .product button:hover {
     background-color: #333;
 }
+
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
